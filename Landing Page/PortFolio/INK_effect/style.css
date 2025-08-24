@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: #000;
+    color: #fff;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.banner .content .title{
+    font-family: 'Hallowed Grounds';
+    font-size: 6em;
+}
+
+.banner::before{
+    content: "";
+    position: absolute;
+    inset : 0;
+    background-image: url(nature.jpg);
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+
+    mask-image: url(ink3.gif);
+    mask-size: cover;
+    mask-position: center;
+}
