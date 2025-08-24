@@ -35,24 +35,24 @@ UI/UX basics for portfolio and landing page design
 C programming for problem-solving and logic building
 
 📂 Repository Structure
-/Calculator
-   └── calculator.c
-   └── README.md
 
-/Portfolio
-   └── index.html
-   └── style.css
-   └── README.md
-
-/LandingPage
-   └── index.html
-   └── style.css
-   └── script.js
-   └── README.md
-
-/Internship
-   └── README.md   # This file
-
+   /Calculator
+      └── calculator.c
+      └── README.md
+   
+   /Portfolio
+      └── index.html
+      └── style.css
+      └── README.md
+   
+   /LandingPage
+      └── index.html
+      └── style.css
+      └── script.js
+      └── README.md
+   
+   /Internship
+      └── README.md   # This file
 📅 Internship Duration
 
 Offer Letter Date: 22nd July 2025
